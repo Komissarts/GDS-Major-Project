@@ -72,120 +72,24 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+*.log
+*.ini
+*.png
+*.ush
 *.bin
-GDS_MainProject/Intermediate/CachedAssetRegistry.bin
-GDS_MainProject/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
-GDS_MainProject/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
-GDS_MainProject/Saved/AutoScreenshot.png
-GDS_MainProject/Saved/Config/CrashReportClient/UECC-Windows-45A3F5B14FA8147B1A0ED59E38C06DF2/CrashReportClient.ini
-GDS_MainProject/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
-GDS_MainProject/Saved/Logs/cef3.log
-GDS_MainProject/Saved/Logs/GDS_MainProject-backup-2023.03.28-10.37.29.log
 GDS_MainProject/Saved/Logs/GDS_MainProject.log
-GDS_MainProject/Saved/webcache_4147/000003.log
-GDS_MainProject/Saved/webcache_4147/Cache/data_0
-GDS_MainProject/Saved/webcache_4147/Cache/data_1
-GDS_MainProject/Saved/webcache_4147/Cache/data_2
-GDS_MainProject/Saved/webcache_4147/Cache/data_3
-GDS_MainProject/Saved/webcache_4147/Cache/f_000001
-GDS_MainProject/Saved/webcache_4147/Cache/f_000002
-GDS_MainProject/Saved/webcache_4147/Cache/f_000003
-GDS_MainProject/Saved/webcache_4147/Cache/f_000004
-GDS_MainProject/Saved/webcache_4147/Cache/f_000005
-GDS_MainProject/Saved/webcache_4147/Cache/f_000006
-GDS_MainProject/Saved/webcache_4147/Cache/f_000007
-GDS_MainProject/Saved/webcache_4147/Cache/f_000008
-GDS_MainProject/Saved/webcache_4147/Cache/f_000009
-GDS_MainProject/Saved/webcache_4147/Cache/f_00000a
-GDS_MainProject/Saved/webcache_4147/Cache/f_00000b
-GDS_MainProject/Saved/webcache_4147/Cache/f_00000c
-GDS_MainProject/Saved/webcache_4147/Cache/f_00000d
-GDS_MainProject/Saved/webcache_4147/Cache/f_00000e
-GDS_MainProject/Saved/webcache_4147/Cache/f_00000f
-GDS_MainProject/Saved/webcache_4147/Cache/f_000010
-GDS_MainProject/Saved/webcache_4147/Cache/f_000011
-GDS_MainProject/Saved/webcache_4147/Cache/f_000012
-GDS_MainProject/Saved/webcache_4147/Cache/f_000013
-GDS_MainProject/Saved/webcache_4147/Cache/f_000014
-GDS_MainProject/Saved/webcache_4147/Cache/f_000015
-GDS_MainProject/Saved/webcache_4147/Cache/f_000016
-GDS_MainProject/Saved/webcache_4147/Cache/f_000017
-GDS_MainProject/Saved/webcache_4147/Cache/f_000018
-GDS_MainProject/Saved/webcache_4147/Cache/f_000019
-GDS_MainProject/Saved/webcache_4147/Cache/f_00001a
-GDS_MainProject/Saved/webcache_4147/Cache/f_00001b
-GDS_MainProject/Saved/webcache_4147/Cache/f_00001c
-GDS_MainProject/Saved/webcache_4147/Cache/f_00001d
-GDS_MainProject/Saved/webcache_4147/Cache/f_00001e
-GDS_MainProject/Saved/webcache_4147/Cache/f_00001f
-GDS_MainProject/Saved/webcache_4147/Cache/f_000020
-GDS_MainProject/Saved/webcache_4147/Cache/f_000021
-GDS_MainProject/Saved/webcache_4147/Cache/f_000022
-GDS_MainProject/Saved/webcache_4147/Cache/f_000023
-GDS_MainProject/Saved/webcache_4147/Cache/f_000024
-GDS_MainProject/Saved/webcache_4147/Cache/f_000025
-GDS_MainProject/Saved/webcache_4147/Cache/f_000026
-GDS_MainProject/Saved/webcache_4147/Cache/f_000027
-GDS_MainProject/Saved/webcache_4147/Cache/f_000028
-GDS_MainProject/Saved/webcache_4147/Cache/f_000029
-GDS_MainProject/Saved/webcache_4147/Cache/f_00002a
-GDS_MainProject/Saved/webcache_4147/Cache/f_00002b
-GDS_MainProject/Saved/webcache_4147/Cache/f_00002c
-GDS_MainProject/Saved/webcache_4147/Cache/f_00002d
-GDS_MainProject/Saved/webcache_4147/Cache/f_00002e
-GDS_MainProject/Saved/webcache_4147/Cache/f_00002f
-GDS_MainProject/Saved/webcache_4147/Cache/f_000030
-GDS_MainProject/Saved/webcache_4147/Cache/f_000031
-GDS_MainProject/Saved/webcache_4147/Cache/f_000032
-GDS_MainProject/Saved/webcache_4147/Cache/f_000033
-GDS_MainProject/Saved/webcache_4147/Cache/f_000034
-GDS_MainProject/Saved/webcache_4147/Cache/f_000035
-GDS_MainProject/Saved/webcache_4147/Cache/f_000036
-GDS_MainProject/Saved/webcache_4147/Cache/f_000037
-GDS_MainProject/Saved/webcache_4147/Cache/f_000038
-GDS_MainProject/Saved/webcache_4147/Cache/f_000039
-GDS_MainProject/Saved/webcache_4147/Cache/f_00003a
-GDS_MainProject/Saved/webcache_4147/Cache/f_00003b
-GDS_MainProject/Saved/webcache_4147/Cache/f_00003c
-GDS_MainProject/Saved/webcache_4147/Cache/f_00003d
-GDS_MainProject/Saved/webcache_4147/Cache/f_00003e
-GDS_MainProject/Saved/webcache_4147/Cache/f_00003f
-GDS_MainProject/Saved/webcache_4147/Cache/f_000040
-GDS_MainProject/Saved/webcache_4147/Cache/f_000041
-GDS_MainProject/Saved/webcache_4147/Cache/f_000042
-GDS_MainProject/Saved/webcache_4147/Cache/f_000043
-GDS_MainProject/Saved/webcache_4147/Cache/f_000044
-GDS_MainProject/Saved/webcache_4147/Cache/f_000045
-GDS_MainProject/Saved/webcache_4147/Cache/f_000046
-GDS_MainProject/Saved/webcache_4147/Cache/f_000047
-GDS_MainProject/Saved/webcache_4147/Cache/index
-GDS_MainProject/Saved/webcache_4147/Code Cache/js/index
-GDS_MainProject/Saved/webcache_4147/Code Cache/js/index-dir/the-real-index
-GDS_MainProject/Saved/webcache_4147/Code Cache/wasm/index
-GDS_MainProject/Saved/webcache_4147/Code Cache/wasm/index-dir/the-real-index
-GDS_MainProject/Saved/webcache_4147/Cookies
-GDS_MainProject/Saved/webcache_4147/Cookies-journal
-GDS_MainProject/Saved/webcache_4147/CURRENT
-GDS_MainProject/Saved/webcache_4147/Local Storage/leveldb/000003.log
-GDS_MainProject/Saved/webcache_4147/Local Storage/leveldb/CURRENT
-GDS_MainProject/Saved/webcache_4147/Local Storage/leveldb/LOCK
-GDS_MainProject/Saved/webcache_4147/Local Storage/leveldb/LOG
-GDS_MainProject/Saved/webcache_4147/Local Storage/leveldb/MANIFEST-000001
-GDS_MainProject/Saved/webcache_4147/LocalPrefs.json
-GDS_MainProject/Saved/webcache_4147/LOCK
-GDS_MainProject/Saved/webcache_4147/LOG
-GDS_MainProject/Saved/webcache_4147/MANIFEST-000001
-GDS_MainProject/Saved/webcache_4147/Network Persistent State
-GDS_MainProject/Saved/webcache_4147/Reporting and NEL
-GDS_MainProject/Saved/webcache_4147/Reporting and NEL-journal
-GDS_MainProject/Saved/webcache_4147/Session Storage/000003.log
-GDS_MainProject/Saved/webcache_4147/Session Storage/CURRENT
-GDS_MainProject/Saved/webcache_4147/Session Storage/LOCK
-GDS_MainProject/Saved/webcache_4147/Session Storage/LOG
-GDS_MainProject/Saved/webcache_4147/Session Storage/MANIFEST-000001
-GDS_MainProject/Saved/webcache_4147/TransportSecurity
-GDS_MainProject/Saved/webcache_4147/Visited Links
+GDS_MainProject/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+GDS_MainProject/Saved/AutoScreenshot.png
+GDS_MainProject/Intermediate/CachedAssetRegistry.bin
+GDS_MainProject/Saved/Logs/GDS_MainProject.log
+GDS_MainProject/Saved/Config/WindowsEditor/Engine.ini
 GDS_MainProject/Intermediate/CachedAssetRegistry.bin
 GDS_MainProject/Saved/AutoScreenshot.png
 GDS_MainProject/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+GDS_MainProject/Saved/Config/WindowsEditor/Engine.ini
 GDS_MainProject/Saved/Logs/GDS_MainProject.log
+GDS_MainProject/Saved/AutoScreenshot.png
+*.png
+*.ini
+*.ini
+*.log
